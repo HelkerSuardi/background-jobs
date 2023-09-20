@@ -7,7 +7,6 @@ An api for testing background jobs using Bull and Redis to queue and manage jobs
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API documentation](#expected+behavior)
 
 ## Requirements
 
