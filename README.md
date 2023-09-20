@@ -7,7 +7,7 @@ An api for testing background jobs using Bull and Redis to queue and manage jobs
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API documentation](#documentation)
+- [API documentation](#expected+behavior)
 
 ## Requirements
 
@@ -41,7 +41,7 @@ Before running this project, make sure you have the following installed:
    ```
 4. Fill the env file with your data
 
-3. Install all packages
+5. Install all packages
 
    ```
    npm install
